@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"../data"
+	"github.com/govipul/GoMicroservices/episode_4/data"
 )
 
 type Products struct {
